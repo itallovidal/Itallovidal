@@ -1,4 +1,4 @@
-<img align="right" height="590em" src=""/>
+<!-- <img align="right" height="590em" src=""/> -->
 
 <h1 align="left"> Prazer, sou o itallo! </h1>
 
