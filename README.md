@@ -3,7 +3,7 @@
 
 * Técnico em Análise e Desenvolvimento de Sistemas pelo Colégio Pedro II
 * Cursando Sistemas de Informação pela UVA - Universidade Veiga de Almeida
-* HTML, CSS, JS, React
+* HTML, CSS/SASS, JS/Typescript, React
 
 
 ## Conhecimentos
