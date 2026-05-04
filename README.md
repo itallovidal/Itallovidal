@@ -1,7 +1,7 @@
 <h1 align="left">Prazer, sou o Itallo!</h1>
 
 * Técnico em Análise e Desenvolvimento de Sistemas pelo Colégio Pedro II  
-* Cursando Sistemas de Informação pela UVA - Universidade Veiga de Almeida  
+* Cursando Sistemas de Informação pela UVA - Universidade Veiga de Almeida com término em Dez 2026
 
 ---
 
