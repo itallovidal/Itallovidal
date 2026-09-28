@@ -1,60 +1,56 @@
-<h1 align="left">👋 Prazer, sou o Itallo!</h1>
+<h1 align="left">👋 Hi, I'm Itallo</h1>
 
-Desenvolvedor front-end focado em transformar interface em experiência — do Rio de Janeiro, Brasil 🇧🇷
-
-* 🎓 Técnico em Análise e Desenvolvimento de Sistemas pelo Colégio Pedro II
-* 🎓 Cursando Sistemas de Informação pela UVA — Universidade Veiga de Almeida, com término em dez/2026
-* 💻 Construo produtos full-stack: interfaces em React/TypeScript e APIs em Node.js e Go
+I focus on understanding the business and solving real problems — from Go APIs to React interfaces, using whatever the problem calls for. Based in Rio de Janeiro, Brazil 🇧🇷
 
 ---
 
 ## 🧠 Stack
 
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Ent](https://img.shields.io/badge/Ent-1A1A1A?style=for-the-badge)
+
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![Ember](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember-dot-js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 
-**Backend**
+**Infra**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+*AWS services: Aurora, SQS, CloudWatch*
 
 ---
 
-## 📌 Projetos em destaque
+## 🎓 Education
 
-| Projeto | Descrição |
+* Technical degree in Systems Analysis and Development — Colégio Pedro II
+* B.Sc. in Information Systems — UVA (Universidade Veiga de Almeida), expected Dec 2026
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
 |---|---|
-| [alfa-omega-site](https://github.com/itallovidal/alfa-omega-site) | Site institucional em Next.js — [live ↗](https://alfa-omega-site.vercel.app) |
-| [miroel-advocacia-site](https://github.com/itallovidal/miroel-advocacia-site) | Site institucional para escritório de advocacia — [live ↗](https://miroel-advocacia-site.vercel.app) |
-| [embaixadoras-do-bem-site](https://github.com/itallovidal/embaixadoras-do-bem-site) | Site institucional para ONG — [live ↗](https://embaixadoras-do-bem-site.vercel.app) |
-| [dragon-dash](https://github.com/itallovidal/dragon-dash) | Jogo 2D em C# feito do zero, com física e mecânicas próprias |
-| [movie-mania](https://github.com/itallovidal/movie-mania) + [api](https://github.com/itallovidal/movie-mania-api) | App full-stack para descobrir e favoritar filmes |
-| [pixel-pulse-mobile](https://github.com/itallovidal/pixel-pulse-mobile) + [api](https://github.com/itallovidal/pixel-pulse-api) | App mobile em React Native com API própria |
+| [alfa-omega-site](https://github.com/itallovidal/alfa-omega-site) | Institutional website built with Next.js — [live ↗](https://alfa-omega-site.vercel.app) |
+| [miroel-advocacia-site](https://github.com/itallovidal/miroel-advocacia-site) | Institutional website for a law firm — [live ↗](https://miroel-advocacia-site.vercel.app) |
+| [embaixadoras-do-bem-site](https://github.com/itallovidal/embaixadoras-do-bem-site) | Institutional website for an NGO — [live ↗](https://embaixadoras-do-bem-site.vercel.app) |
+| [dragon-dash](https://github.com/itallovidal/dragon-dash) | 2D game built from scratch in C#, with custom physics and mechanics |
+| [movie-mania](https://github.com/itallovidal/movie-mania) + [api](https://github.com/itallovidal/movie-mania-api) | Full-stack app to discover and favorite movies |
+| [pixel-pulse-mobile](https://github.com/itallovidal/pixel-pulse-mobile) + [api](https://github.com/itallovidal/pixel-pulse-api) | Mobile app in React Native with its own API |
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itallovidal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallovidal&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-</p>
-
-![streak](https://streak-stats.demolab.com?user=itallovidal&theme=tokyonight&hide_border=true)
-
----
-
-## 📬 Contato
+## 📬 Contact
 
 <a href="https://www.linkedin.com/in/itallo-vidal-b69876275" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
