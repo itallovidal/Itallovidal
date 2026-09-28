@@ -1,6 +1,8 @@
-<h1 align="left">👋 Hi, I'm Itallo</h1>
+<h1 align="left">Software Developer</h1>
 
-I focus on understanding the business and solving real problems — from Go APIs to React interfaces, using whatever the problem calls for. Based in Rio de Janeiro, Brazil 🇧🇷
+I focus on understanding the business and solving real problems — from Go APIs to React interfaces, using whatever the problem calls for. 
+
+Rio de Janeiro, Brazil 🇧🇷
 
 ---
 
