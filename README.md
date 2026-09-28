@@ -1,6 +1,6 @@
 <h1 align="left">Software Developer</h1>
 
-I focus on understanding the business and solving real problems — from Go APIs to React interfaces, using whatever the problem calls for. 
+I focus on understanding the business and solving problems using whatever the language the problem calls for. 
 
 Rio de Janeiro, Brazil 🇧🇷
 
