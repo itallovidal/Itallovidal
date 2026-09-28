@@ -4,6 +4,8 @@ I focus on understanding the business and solving problems using whatever the la
 
 Rio de Janeiro, Brazil 🇧🇷
 
+Want to see my work and projects? Check out my [LinkedIn](https://www.linkedin.com/in/itallo-vidal/).
+
 ---
 
 ## 🧠 Stack
@@ -41,6 +43,6 @@ Rio de Janeiro, Brazil 🇧🇷
 
 ## 📬 Contact
 
-<a href="https://www.linkedin.com/in/itallo-vidal-b69876275" target="_blank">
+<a href="https://www.linkedin.com/in/itallo-vidal/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
